@@ -92,3 +92,6 @@ property name: **value**
 
 #### Optional inputs:
 *showFalse*: if true, does not display anything if value is true; defaults to false.
+
+## Contribute
+Contributions are welcome on [Github](https://github.com/poznyakovskiy/ng2-editable).

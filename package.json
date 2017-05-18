@@ -1,6 +1,6 @@
 {
   "name": "ng2-editable",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "In-place editing for Angular2",
   "main": "dist/index.js",
   "scripts": {
